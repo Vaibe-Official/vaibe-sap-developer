@@ -1,2 +1,2 @@
 # vaibe-sap-developer
-Vaibe skill for SAP Developers
+Vaibe Agent for SAP Developers
